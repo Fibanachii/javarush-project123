@@ -1,0 +1,25 @@
+
+\
+java:S1854
+":Remove this useless assignment to local variable "number".(„―όÿÿÿÿ8ΐπ‚§Ζ1
+Z
+java:S1854
+"8Remove this useless assignment to local variable "size".(„―όÿÿÿÿ8ΐπ‚§Ζ1
+b
+java:S1854
+"@Remove this useless assignment to local variable "numericValue".(„―όÿÿÿÿ8ΐπ‚§Ζ1
+k
+java:S1659
+"IDeclare "numericValue" and all following declarations on a separate line.(„―όÿÿÿÿ8Απ‚§Ζ1
+O
+java:S1481
+"-Remove this unused "intValue" local variable.(„―όÿÿÿÿ8Απ‚§Ζ1
+S
+java:S1481
+"1Remove this unused "numericValue" local variable.(„―όÿÿÿÿ8Απ‚§Ζ1
+K
+java:S1481
+")Remove this unused "size" local variable.(„―όÿÿÿÿ8Απ‚§Ζ1
+M
+java:S1481
+"+Remove this unused "number" local variable.(„―όÿÿÿÿ8Απ‚§Ζ1

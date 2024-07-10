@@ -1,0 +1,6 @@
+
+s	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+P
+java:S2479":Remove the non-escaped \u00A0 character from this literal.(¤ìÑý
+y
+java:S1157%"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¯÷Üå

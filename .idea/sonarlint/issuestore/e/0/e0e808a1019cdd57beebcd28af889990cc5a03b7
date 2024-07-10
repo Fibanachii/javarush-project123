@@ -1,0 +1,9 @@
+
+R
+java:S1854
+"5Remove this useless assignment to local variable "b".(’–Ç­8ÍÖˆ€Æ1
+H
+java:S1481	"&Remove this unused "a" local variable.(–ÎåÌûÿÿÿÿ8Ôí†€Æ1
+C
+java:S1481
+"&Remove this unused "b" local variable.(’–Ç­8Ôí†€Æ1

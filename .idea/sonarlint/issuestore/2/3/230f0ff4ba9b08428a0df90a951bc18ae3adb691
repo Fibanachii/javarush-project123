@@ -1,0 +1,19 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "text".(§·Ö•8ƒ≈≤î 1
+U
+java:S1854"8Remove this useless assignment to local variable "line".(§·Ö•8≈≈≤î 1
+W
+java:S1854":Remove this useless assignment to local variable "phrase".(§·Ö•8≈≈≤î 1
+U
+java:S1854"8Remove this useless assignment to local variable "word".(§·Ö•8≈≈≤î 1
+`
+java:S1659"CDeclare "phrase" and all following declarations on a separate line.(§·Ö•8∆≈≤î 1
+F
+java:S1481")Remove this unused "word" local variable.(§·Ö•8«≈≤î 1
+H
+java:S1481"+Remove this unused "phrase" local variable.(§·Ö•8«≈≤î 1
+F
+java:S1481")Remove this unused "line" local variable.(§·Ö•8«≈≤î 1
+F
+java:S1481")Remove this unused "text" local variable.(§·Ö•8«≈≤î 1
